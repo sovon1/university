@@ -1,34 +1,33 @@
-# Semester 2-1 Final Project
+# University Coursework
 
-## Project Overview
-**Title:** [Your Project Title]
-**Submitted by:** sovon1 ([GitHub](https://github.com/sovon1))
-**Date:** 2025-02-26
-**Courses Applied:** OOP and Algorithm
+A comprehensive repository containing all my academic coursework and projects throughout my university education.
 
-## Description
-[Provide a detailed description of your final project, its purpose, and the problems it solves]
+## Repository Information
+- **Owner:** sovon1
+- **GitHub:** [sovon1](https://github.com/sovon1)
+- **Last Updated:** 2025-02-26 11:47:16
 
-## Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+## Repository Structure
 
-## Technologies
-- **Languages:** Java/C++
-- **Development Tools:** [List tools used]
-- **Libraries:** [List libraries used]
+This repository is organized by semesters:
 
-## Installation & Setup
-```bash
-# Clone the repository
-git clone https://github.com/sovon1/university.git
+| Folder | Description |
+|--------|-------------|
+| [semester-1-1](./semester-1-1) | First year, first semester coursework |
+| [semester-1-2](./semester-1-2) | First year, second semester coursework |
+| [semester-2-1](./semester-2-1) | Second year, first semester coursework (current) |
 
-# Navigate to the project directory
-cd university/semester-2-1/semester-final-project
+## Current Semester
 
-# Compile the project
-[Commands to compile]
+I'm currently in Semester 2-1 (3rd semester overall). All current coursework can be found in the [semester-2-1](./semester-2-1) directory.
 
-# Run the application
-[Commands to run]
+## Academic Progress Tracker
+
+- ✅ Semester 1-1: Completed
+- ✅ Semester 1-2: Completed
+- 🔄 Semester 2-1: In Progress
+- ⬜ Semester 2-2: Not Started
+
+## License
+
+This repository is licensed under the MIT License.
