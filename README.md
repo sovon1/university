@@ -1,33 +1,70 @@
-# University Coursework
+# University Programming Repository
 
-A comprehensive repository containing all my academic coursework and projects throughout my university education.
+![GitHub last commit](https://img.shields.io/github/last-commit/sovon1/university)
+![GitHub repo size](https://img.shields.io/github/repo-size/sovon1/university)
 
-## Repository Information
-- **Owner:** sovon1
-- **GitHub:** [sovon1](https://github.com/sovon1)
-- **Last Updated:** 2025-02-26 11:47:16
+A comprehensive collection of all my academic programming work throughout my undergraduate journey.
 
-## Repository Structure
+## 📚 Repository Structure
 
-This repository is organized by semesters:
+\`\`\`
+university/
+├── 2-1/                 # 2nd Year, 1st Semester (Current)
+│   ├── Algorithm/       # Algorithm course materials
+│   └── OOPS/            # Object-Oriented Programming course materials
+├── 2-2/                 # 2nd Year, 2nd Semester
+├── 3-1/                 # 3rd Year, 1st Semester
+├── 3-2/                 # 3rd Year, 2nd Semester
+├── 4-1/                 # 4th Year, 1st Semester
+└── 4-2/                 # 4th Year, 2nd Semester
+\`\`\`
 
-| Folder | Description |
-|--------|-------------|
-| [semester-1-1](./semester-1-1) | First year, first semester coursework |
-| [semester-1-2](./semester-1-2) | First year, second semester coursework |
-| [semester-2-1](./semester-2-1) | Second year, first semester coursework (current) |
+## 🚀 Current Semester (2-1)
 
-## Current Semester
+I'm currently in my 2nd year, 1st semester focusing on:
 
-I'm currently in Semester 2-1 (3rd semester overall). All current coursework can be found in the [semester-2-1](./semester-2-1) directory.
+- **Algorithm**: Data structures, sorting algorithms, searching algorithms, etc.
+- **OOPS**: Object-Oriented Programming concepts and implementations
 
-## Academic Progress Tracker
+## 🔍 Navigation
 
-- ✅ Semester 1-1: Completed
-- ✅ Semester 1-2: Completed
-- 🔄 Semester 2-1: In Progress
-- ⬜ Semester 2-2: Not Started
+Each semester folder contains course-specific materials including:
 
-## License
+- Code implementations
+- Assignments
+- Projects
+- Study notes
+- Exam preparations
 
-This repository is licensed under the MIT License.
+## 💻 Technologies
+
+This repository includes work in various programming languages and technologies as per course requirements, including but not limited to:
+
+- C++
+- Java
+- Python
+- Data Structures
+- Algorithms
+- Web Development
+- Database Systems
+- and more as I progress through my academic journey
+
+## 📅 Maintenance
+
+Repository last updated: 2025-03-01
+
+## 📝 License
+
+This repository is meant for educational purposes and personal reference.
+
+## 📞 Contact
+
+Feel free to reach out if you have any questions or suggestions!
+
+---
+
+© 2025 @sovon1
+
+## Folder Structure Setup
+
+I'll be adding to this repository as I progress through my academic journey.
