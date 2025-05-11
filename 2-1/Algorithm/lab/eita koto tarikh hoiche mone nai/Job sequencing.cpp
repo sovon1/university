@@ -40,13 +40,13 @@ int main(){
     vector<int> slot(mx+1,-1);
     int cntjob=0;
     int totalprofit=0;
-   //now i will allcate the jobs 
-    for(int i=0;i<n;i++){  // Iterate through each job (sorted by profit)
-        for(int j=v[i].second;j>0;j--){  // Try to find a slot starting from deadline and moving backwards
-            if(slot[j]==-1){  // Check if this time slot is available
-                slot[j]=i;  // Assign this job to the slot
-                cntjob++;  // Increment count of scheduled jobs
-                totalprofit+=v[i].first;  // Add the profit of current job (not v[j])
+   /
+    for(int i=0;i<n;i++){  
+        for(int j=v[i].second;j>0;j--){  
+            if(slot[j]==-1){  
+                slot[j]=i;  // eikhane ja mon chay dewa jabe
+                cntjob++;  
+                totalprofit+=v[i].first;  
                 break;
             }
         }
