@@ -40,7 +40,7 @@ int main(){
     vector<int> slot(mx+1,-1);
     int cntjob=0;
     int totalprofit=0;
-   /
+   
     for(int i=0;i<n;i++){  
         for(int j=v[i].second;j>0;j--){  
             if(slot[j]==-1){  
