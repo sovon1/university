@@ -31,7 +31,7 @@ int main(){
     vector<pair<int,int>> v;
     for(int i=0;i<n;i++){
         v.push_back({prfit[i],deadline[i]});
-    }
+
     sort(v.begin(),v.end(),greater<pair<int,int>>());
     int mx=0;
     for(int i=0;i<n;i++){

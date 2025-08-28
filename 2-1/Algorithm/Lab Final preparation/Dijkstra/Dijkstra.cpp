@@ -50,7 +50,8 @@ vector<int> dijkstra(int V, vector<vector<int>> &edges, int src){
         // vertex, extract it from priority queue.
         int u = pq.top()[1];
         pq.pop();
-
+        //
+             
         // Get all adjacent of u.
         for (auto x : adj[u]){
             
@@ -66,9 +67,10 @@ vector<int> dijkstra(int V, vector<vector<int>> &edges, int src){
                 dist[v] = dist[u] + weight;
                 pq.push({dist[v], v});
             }
-        }
-    }
-
+        }   //  bellman ford er mare chudi 
+    } 
+   // 
+    //  
     return dist;
 }
 
