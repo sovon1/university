@@ -1,0 +1,11 @@
+// Problem 17:
+// Write a program to create the following GUI. You do not have to provide any functionality.
+import javax.swing.*;
+public class Problem17_GUI {
+    public static void main(String[] args) {
+        JFrame frame = new JFrame("Problem 17 GUI");
+        frame.setSize(400, 300);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setVisible(true);
+    }
+}
