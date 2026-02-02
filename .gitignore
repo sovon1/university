@@ -1,0 +1,76 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# C/C++ specific
+*.d
+*.swp
+*.swo
+
+# LaTeX
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.pdf
+*.synctex.gz
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+bin/
+obj/
