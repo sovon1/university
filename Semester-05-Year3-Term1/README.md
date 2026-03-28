@@ -5,8 +5,7 @@
 
 ---
 ## Routine
-![](https://i.imgur.com/V5IjbAK.png)
-![](https://i.imgur.com/Bgzc6QN.png)
+![](https://i.imgur.com/voKSGgp.png)
 
 ## 📅 Course Overview
 
