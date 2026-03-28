@@ -4,6 +4,9 @@
 **Department:** Computer Science & Telecommunication Engineering (CSTE), NSTU.
 
 ---
+## Routine
+![](https://i.imgur.com/V5IjbAK.png)
+![](https://i.imgur.com/Bgzc6QN.png)
 
 ## 📅 Course Overview
 
