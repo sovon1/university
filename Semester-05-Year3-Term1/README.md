@@ -6,7 +6,82 @@
 ---
 ## Routine
 ![](https://i.imgur.com/voKSGgp.png)
+<div align="center">
 
+# 🎓 Academic Routine: 3rd Year 1st Term
+**Computer Science | Noakhali Science and Technology University**
+
+</div>
+
+<br>
+
+## 👨‍🏫 Instructor Directory
+
+| Code | Instructor Name |
+| :---: | :--- |
+| 🔹 **AN** | Dr. Ashadun Nobi |
+| 🔹 **MJH** | Md. Javed Hossain |
+| 🔹 **NM** | Dr. Nazia Majadi |
+| 🔹 **IMT** | Iftekhar Mahmud Towhid |
+| 🔹 **RK** | Ratnadip Kurii |
+
+---
+
+## 📅 Weekly Schedule
+
+### ☀️ Sunday
+| Time | Type | Course | Instructor |
+| :--- | :---: | :--- | :--- |
+| 🕘 `09:00 - 09:50` | 📘 | Operating Systems & System Programming | Ratnadip Kurii |
+| 🕙 `10:00 - 10:50` | 📘 | Digital Signal Processing | Dr. Ashadun Nobi |
+| 🕚 `11:00 - 11:50` | 📘 | Electromagnetic Waves & Radiating Systems | Dr. Ashadun Nobi |
+| 🕛 `12:00 - 02:00` | ☕ | *Mid-Day Break & Recess* | — |
+| 🕑 `02:00 - 02:50` | 📘 | Artificial Intelligence | Iftekhar Mahmud Towhid |
+| 🕒 `03:00 - 04:50` | 💻 | Artificial Intelligence Lab | Iftekhar Mahmud Towhid |
+
+### 🌙 Monday
+| Time | Type | Course | Instructor |
+| :--- | :---: | :--- | :--- |
+| 🕘 `09:00 - 09:50` | 📘 | Digital Signal Processing | Dr. Ashadun Nobi |
+| 🕙 `10:00 - 11:50` | 💻 | Digital Signal Processing Lab | Dr. Ashadun Nobi |
+| 🕚 `11:00 - 11:50` | 📘 | Compiler Construction | Dr. Nazia Majadi |
+| 🕛 `12:00 - 02:00` | ☕ | *Mid-Day Break & Recess* | — |
+| 🕑 `02:00 - 02:50` | 📘 | Artificial Intelligence | Iftekhar Mahmud Towhid |
+| 🕒 `03:00 - 04:50` | 💻 | Artificial Intelligence Lab | Iftekhar Mahmud Towhid |
+
+### ☀️ Tuesday
+| Time | Type | Course | Instructor |
+| :--- | :---: | :--- | :--- |
+| 🕘 `09:00 - 09:50` | 📘 | Digital Signal Processing | Dr. Nazia Majadi |
+| 🕙 `10:00 - 10:50` | 📘 | Microprocessor, Microcontroller & Interfacing | Md. Javed Hossain |
+| 🕚 `11:00 - 11:50` | 📘 | Electromagnetic Waves & Radiating Systems | Dr. Ashadun Nobi |
+| 🕛 `12:00 - 02:00` | ☕ | *Mid-Day Break & Recess* | — |
+| 🕑 `02:00 - 02:50` | 📘 | Operating Systems & System Programming | Ratnadip Kurii |
+| 🕒 `03:00 - 04:50` | 💻 | Operating Systems & System Programming Lab | Ratnadip Kurii |
+
+### 🌙 Wednesday
+| Time | Type | Course | Instructor |
+| :--- | :---: | :--- | :--- |
+| 🕘 `09:00 - 09:50` | 📘 | Operating Systems & System Programming | Ratnadip Kurii |
+| 🕙 `10:00 - 10:50` | 📘 | Artificial Intelligence | Iftekhar Mahmud Towhid |
+| 🕚 `11:00 - 11:50` | 💻 | Operating Systems & System Programming Lab | Ratnadip Kurii |
+| 🕛 `12:00 - 02:00` | ☕ | *Mid-Day Break & Recess* | — |
+| 🕑 `02:00 - 02:50` | 📘 | Compiler Construction | Dr. Nazia Majadi |
+| 🕒 `03:00 - 03:50` | 📘 | Microprocessor, Microcontroller & Interfacing | Md. Javed Hossain |
+
+### ☀️ Thursday
+| Time | Type | Course | Instructor |
+| :--- | :---: | :--- | :--- |
+| 🕘 `09:00 - 09:50` | 📘 | Compiler Construction | Dr. Nazia Majadi |
+| 🕙 `10:00 - 10:50` | 💻 | Compiler Construction Lab | Dr. Nazia Majadi |
+| 🕚 `11:00 - 11:50` | 📘 | Electromagnetic Waves & Radiating Systems | Dr. Ashadun Nobi |
+| 🕛 `12:00 - 02:00` | ☕ | *Mid-Day Break & Recess* | — |
+| 🕑 `02:00 - 02:50` | 📘 | Microprocessor, Microcontroller & Interfacing | Md. Javed Hossain |
+| 🕒 `03:00 - 03:50` | 💻 | Microprocessor, Microcontroller & Interfacing Lab | Md. Javed Hossain |
+
+<br>
+
+> **Key:** 📘 Theory Class | 💻 Practical/Lab | ☕ Break
 ## 📅 Course Overview
 
 | Course Code | Course Title | Credits | Description |
