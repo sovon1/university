@@ -1,19 +1,43 @@
-# CSTE-3101: Digital Signal Processing 📶
+<div align="center">
 
-**Credits:** 3.0
-**Evaluation:** Attendance (10%), Class Tests (20%), Final Exam (70%)
+# 📻 CSTE 3101: Digital Signal Processing
+**Credit:** 3.0 (Theory) + 1.0 (Lab) = 4.0 Total | **Prerequisite:** CSTE 2203 (Signals and Systems)
 
-## Course Description
-This course covers the fundamentals of digital signal processing, including discrete-time signals and systems, Z-transform, Fourier analysis, and filter design.
+> *"Deals with digital signals, systems, applications, operations, and digital filter design."*
 
-## Syllabus Structure
-*   **Week 1-2:** Discrete-Time Signals & Representation
-*   **Week 3-4:** System Properties & Time Domain Analysis
-*   **Week 5-6:** Convolution & Fourier Series
-*   **Week 7-8:** Fourier Transform & System Transfer Function
-*   **Week 9-10:** Applications & Analog Systems
-*   **Week 11-12:** Laplace Transform
-*   **Week 13:** Review & Exam Prep
+</div>
 
-## Resources
-Check the `Theory/` folder for weekly notes and `Lab-CSTE-3102/` for practical implementations.
+---
+
+## 🎯 Course Objectives
+*   Introduce signals, systems, time and frequency domain concepts.
+*   Discuss Z-transform and discrete-time Fourier transform.
+*   Discuss sampling techniques and reconstruction.
+*   Explain functionalities of digital filters (FIR/IIR).
+
+## 📅 Weekly Lesson Plan
+
+| Week | Course Contents |
+| :---: | :--- |
+| **1** | Discrete Time Signals & Systems: Intro, sequences, classification, LTI systems analysis. |
+| **2** | Convolution & Correlation: Linear/Circular convolution, Difference equations. |
+| **3** | Sampling: Sampling theorem, reconstruction, Aliasing, Quantization noise. |
+| **4** | Frequency Domain Analysis: DTFT, Energy density spectrum. |
+| **5** | Z-Transform: ROC, Properties, Rational Z-transforms (poles/zeros). |
+| **6** | Inverse Z-Transform & Stability: Partial fraction, Jury’s stability criterion. |
+| **7** | Discrete Fourier Transform (DFT): DFS, Properties, Linear filtering. |
+| **8** | Fast Fourier Transform (FFT): Radix-2 algorithms, Butterfly diagrams. |
+| **9** | Structures for Discrete-Time Systems: Block diagrams, IIR structures (Direct, Cascade, Parallel). |
+| **10** | Structures for FIR Systems: Direct, Cascade, Lattice structure, Linear-phase. |
+| **11** | Filter Design (IIR): Impulse invariance, Bilinear transformation, Butterworth, Chebyshev. |
+| **12** | Filter Design (IIR) Continued: Frequency transformations, Low-pass/High-pass design. |
+| **13** | Filter Design (FIR): Windowing method, Frequency sampling, Equiripple designs. |
+
+## 📚 Recommended Books
+1. 📖 *Digital Signal Processing: Principles, Algorithms, and Applications* by J.G. Proakis & D.G. Manolakis
+2. 📖 *Understanding Digital Signal Processing* by R. G. Lyon
+
+---
+🔙 **Navigation**
+- [Go back to Semester 5 Curriculum/Syllabus](../Syllabus.md)
+- [Go back to Semester 5 Main Page](../README.md)
