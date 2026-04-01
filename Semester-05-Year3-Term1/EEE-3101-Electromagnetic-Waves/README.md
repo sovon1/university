@@ -1,21 +1,43 @@
-# 📡 EEE-3101: Electromagnetic Waves and Radiating Systems
+<div align="center">
 
-Welcome to the Electromagnetic Waves course repository for the 5th semester.
+# 📡 EEE 3101: Electromagnetic Waves and Radiating Systems
+**Credit:** 3.0 | **Prerequisite:** PHYS 1101
+
+> *"Background in electromagnetic theory, Maxwell equations, wave propagation, and radiation."*
+
+</div>
+
+---
 
 ## 🎯 Course Objectives
-* Deep-dive into Electromagnetic Theory via Maxwell’s Equations and Boundary Conditions.
-* Explore EM wave propagation (plane waves, skin depth, reflection).
-* Understand guided waves in parallel planes and rectangular waveguides.
-* Study transmission line theory, wave parameters (R, L, G, C), and characteristic impedance.
-* Learn impedance matching strategies using Smith Charts and Quarter-wave transformers.
-* Analyze radiation potentials, antenna fundamentals, and properties of practical antennas (Dipole, Yagi-Uda, Parabolic Reflector).
+*   Deep-dive into Electromagnetic Theory via Maxwell’s Equations and Boundary Conditions.
+*   Explore EM wave propagation (plane waves, skin depth, reflection).
+*   Understand guided waves in parallel planes and rectangular waveguides.
+*   Study transmission line theory, wave parameters, and characteristic impedance.
+*   Learn impedance matching strategies using Smith Charts.
+*   Analyze radiation potentials, antenna fundamentals, and properties of practical antennas.
 
-## 📚 Recommended Reference Materials
-1. **Electromagnetic Waves and Radiating Systems** by E.C. Jordan and K.G. Balmain.
-2. **Engineering Electromagnetics** by W.H. Hayt and J.A. Buck.
+## 📅 Weekly Lesson Plan
 
-## 💻 Practical Applications
-While this course may not feature a dedicated 1.5-credit lab like others this semester, mastering Smith charts visually or through CAD tools (like CST Studio or MATLAB scripts) is heavily recommended to model wave behavior, impedance matching, and antenna radiation patterns.
+| Week | Course Contents |
+| :---: | :--- |
+| **1** | Maxwell’s Equations: Vector Analysis, Faraday’s Law, Boundary Conditions. |
+| **2** | EM Wave Propagation: Plane waves, Skin Depth, Poynting Vector, Reflection. |
+| **3** | Guided Waves (Parallel Planes): TE, TM, TEM waves, Cut-off frequency. |
+| **4** | Rectangular Waveguides: TE/TM modes, Dominant Mode, Power Transmission. |
+| **5** | Transmission Line Theory I: Parameters (R,L,G,C), Wave Propagation, Characteristic Impedance. |
+| **6** | Transmission Line Theory II: Input Impedance, SWR, Reflection Coefficient. |
+| **7** | Impedance Matching: Quarter-wave transformer, Stub matching, Smith Chart. |
+| **8** | Radiation and Potentials: Retarded Potentials, Hertzian Dipole, Radiation Resistance. |
+| **9** | Antenna Fundamentals: Parameters (Gain, Directivity), Friis Transmission Equation. |
+| **10** | Antenna Arrays: Linear Arrays, Broadside/End-fire, Pattern Multiplication. |
+| **11** | Practical Antennas I: Dipole, Monopole, Loop, Yagi-Uda Antenna. |
+| **12** | Practical Antennas II: Slot, Horn, Parabolic Reflector, LPDA. |
+| **13** | Wave Propagation: Ground, Sky (Ionospheric), Space Wave Propagation. |
+
+## 📚 Recommended Books
+1. 📖 *Electromagnetic Waves and Radiating Systems* by E.C. Jordan & K.G. Balmain
+2. 📖 *Engineering Electromagnetics* by W.H. Hayt & J.A. Buck
 
 ---
 🔙 **Navigation**
