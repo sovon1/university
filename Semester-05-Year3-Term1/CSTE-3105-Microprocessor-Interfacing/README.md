@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎛️ CSTE 3105: Microprocessor, Microcontroller and Interfacing
-**Credit:** 3.0 | **Prerequisite:** CSTE 2207
+**Credit:** 3.0 (Theory) + 1.0 (Lab) = 4.0 Total | **Prerequisite:** CSTE 2207
 
 > *"Intro to microprocessor architecture (8086), assembly, and peripheral interfacing."*
 

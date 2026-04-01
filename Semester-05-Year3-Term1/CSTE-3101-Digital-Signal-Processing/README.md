@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📻 CSTE 3101: Digital Signal Processing
-**Credit:** 3.0 | **Prerequisite:** CSTE 2203 (Signals and Systems)
+**Credit:** 3.0 (Theory) + 1.0 (Lab) = 4.0 Total | **Prerequisite:** CSTE 2203 (Signals and Systems)
 
 > *"Deals with digital signals, systems, applications, operations, and digital filter design."*
 

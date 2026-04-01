@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🖥️ CSTE 3103: Operating Systems and System Programming
-**Credit:** 3.0 | **Prerequisite:** CSTE 2103
+**Credit:** 3.0 (Theory) + 1.5 (Lab) = 4.5 Total | **Prerequisite:** CSTE 2103
 
 > *"Develops ability to realize OS functionalities (process, memory, file systems, security)."*
 

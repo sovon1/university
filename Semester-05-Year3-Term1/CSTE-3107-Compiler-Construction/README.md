@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚙️ CSTE 3107: Compiler Construction
-**Credit:** 3.0 | **Prerequisite:** CSTE 2107
+**Credit:** 3.0 (Theory) + 1.0 (Lab) = 4.0 Total | **Prerequisite:** CSTE 2107
 
 > *"Understanding compiler phases, automata theory, and constructing a compiler."*
 

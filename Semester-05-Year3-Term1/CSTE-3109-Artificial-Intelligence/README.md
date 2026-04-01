@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🤖 CSTE 3109: Artificial Intelligence
-**Credit:** 3.0 | **Prerequisite:** CSTE 2103
+**Credit:** 3.0 (Theory) + 1.5 (Lab) = 4.5 Total | **Prerequisite:** CSTE 2103
 
 > *"Theoretical and practical AI approaches (agents, search, logic, ML)."*
 
