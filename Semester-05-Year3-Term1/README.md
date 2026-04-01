@@ -4,6 +4,10 @@
 **Department:** Computer Science & Telecommunication Engineering (CSTE), NSTU.
 
 ---
+## 📑 Curriculum & Syllabus
+You can view the detailed curriculum and syllabus for this term in the [**Syllabus.md**](./Syllabus.md) file.
+
+---
 ## Routine
 ![](https://i.imgur.com/voKSGgp.png)
 <div align="center">
